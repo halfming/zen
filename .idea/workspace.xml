@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22631947-5042-4a40-a489-ecfc08f82395" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/superlists/functional_test.py" afterPath="" />
-    </list>
+    <list default="true" id="22631947-5042-4a40-a489-ecfc08f82395" name="Default" comment="" />
     <ignored path="superlists.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functional_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/functional_test.py">
+      <file leaf-file-name="dunctional_tests.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dunctional_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1443038">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.19240506">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -82,12 +80,13 @@
       <list>
         <option value="$PROJECT_DIR$/superlists/functional_test.py" />
         <option value="$PROJECT_DIR$/functional_test.py" />
+        <option value="$PROJECT_DIR$/dunctional_tests.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="107" />
-    <option name="y" value="52" />
+    <option name="x" value="42" />
+    <option name="y" value="70" />
     <option name="width" value="1374" />
     <option name="height" value="748" />
   </component>
@@ -331,7 +330,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="107" y="52" width="1374" height="748" extended-state="0" />
+    <frame x="42" y="70" width="1374" height="748" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -390,10 +389,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functional_test.py">
+    <entry file="file://$PROJECT_DIR$/dunctional_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1443038">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.19240506">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
