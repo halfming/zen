@@ -5,7 +5,11 @@ from django.http import HttpResponse
 #     return HttpResponse('<html><title>To-Do lists</title></html>')
 
 def home_page(request):
-    return render(request, 'home.html')
+    # if request.method == 'POST':
+    #     return HttpResponse(request.POST['item_text'])
+    return render(request, 'home.html',{
+        'new_item_text': request.POST.get('item_text', '')
+    })
 
 
 
